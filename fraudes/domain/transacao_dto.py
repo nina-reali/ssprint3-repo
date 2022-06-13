@@ -1,0 +1,20 @@
+class TransacaoDTO:
+
+    def __init__(self, array_parser) -> None:
+        self.end_to_end = array_parser[0]
+        self.chave = array_parser[1]
+        self.tipo_chave = array_parser[2]
+        self.instituicao_contra_parte = array_parser[3]
+        self.nome_instituicao_contra_parte = array_parser[4]
+        self.tipo_pessoa_contra_parte = array_parser[5]
+        self.instituicao = array_parser[6]
+        self.nome_instituicao = array_parser[7]
+        self.tipo_pessoa = array_parser[8]
+        self.valor = array_parser[9]
+        self.tipo_iniciacao = array_parser[10]
+        self.sigla_estado = array_parser[11]
+        self.comentario = array_parser[12]
+        self.mes = array_parser[13]
+        self.data_transacao = array_parser[14]
+        self.agendado = array_parser[15]
+        self.pais_origem = array_parser[16]
