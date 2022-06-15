@@ -1,0 +1,641 @@
+[
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1535051457711702017",
+            "nome": "\"ALEXANDREdeJESUS\"",
+            "data": "\"2022-06-10 00:09:22+00:00\"",
+            "texto": "\"@nubank Boa noite! #pix não está funcionando de #nubank para @santander_br\""
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1534995553569890304",
+            "nome": "\"Ulgo\"",
+            "data": "\"2022-06-09 20:27:13+00:00\"",
+            "texto": "\"Nubank vive me fazendo passar raiva. Santander nunca aconteceu esse tipo de falha. #pix #nubank \""
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1534988786307895297",
+            "nome": "\"Rodrigo Barcelos\"",
+            "data": "\"2022-06-09 20:00:20+00:00\"",
+            "texto": "\"Gente o @nubank de vocês também está fora do ar? O meu não está realizando pix nem nada#nubank #foradoar\""
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1535051457711702017",
+            "nome": "\"ALEXANDREdeJESUS\"",
+            "data": "\"2022-06-10 00:09:22+00:00\"",
+            "texto": "\"@nubank Boa noite! #pix não está funcionando de #nubank para @santander_br\""
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1534995553569890304",
+            "nome": "\"Ulgo\"",
+            "data": "\"2022-06-09 20:27:13+00:00\"",
+            "texto": "\"Nubank vive me fazendo passar raiva. Santander nunca aconteceu esse tipo de falha. #pix #nubank \""
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1534518972560941057",
+            "nome": "\"Emma burkness\"",
+            "data": "\"2022-06-08 12:53:27+00:00\"",
+            "texto": "\"Não consigo fazer a merda de um pix"
+        }
+    },
+    {
+        "sentimento": 0,
+        "tweet": {
+            "id": "1534294997603913729",
+            "nome": "\"Leanderson\"",
+            "data": "\"2022-06-07 22:03:27+00:00\"",
+            "texto": "\"Quando alguem ou algum estabelecimento diz  que não aceita pix  "
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535032272273002505",
+            "nome": "\"ADS da Depressão\"",
+            "data": "\"2022-06-09 22:53:07+00:00\"",
+            "texto": "\"Pensando seriamente em retirar meu dinheiro pessoal e da minha empresa do #nubank @nubank "
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535018340447666176",
+            "nome": "\"Thiago Neves\"",
+            "data": "\"2022-06-09 21:57:46+00:00\"",
+            "texto": "\"@nubank denovo o pix fora do ar? Vocês estão de brincadeira!!! Que time de tecnologia péssimo vocês tem"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535008292166066195",
+            "nome": "\"Ismael Rodrigues\"",
+            "data": "\"2022-06-09 21:17:50+00:00\"",
+            "texto": "\"Sinceramente"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534995117043597330",
+            "nome": "\"Ulgo\"",
+            "data": "\"2022-06-09 20:25:29+00:00\"",
+            "texto": "\"Nubank vive dando problema no pix. Vocês também tem esse problema? #nubank\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533945693462831106",
+            "nome": "\"Fuh\"",
+            "data": "\"2022-06-06 22:55:27+00:00\"",
+            "texto": "\"Ow nubanco"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533932514418499584",
+            "nome": "\"EuSousa.\"",
+            "data": "\"2022-06-06 22:03:05+00:00\"",
+            "texto": "\"Que óóóóóóódio da #nubank"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533931627268739072",
+            "nome": "\"Fatynha Silva\"",
+            "data": "\"2022-06-06 21:59:33+00:00\"",
+            "texto": "\"#nubank ajeita esse pix"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533921020150784001",
+            "nome": "\"Eu e o Probleminha\"",
+            "data": "\"2022-06-06 21:17:24+00:00\"",
+            "texto": "\"Aí fica difícil né @nubank são 18:00 e eu preciso efetuar um pagamento. Impossível fazer pix ou Ted. #nubank \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533907875575345154",
+            "nome": "\"Rooh #teamvanderlei✊🏾\"",
+            "data": "\"2022-06-06 20:25:10+00:00\"",
+            "texto": "\"Nubank com pix fora do ar ? #nubank\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533878141730660353",
+            "nome": "\"Willian Sousa\"",
+            "data": "\"2022-06-06 18:27:01+00:00\"",
+            "texto": "\"Como assim o @nubank tá fora do ar pra fazer Pix? Me expliquem isso!#nubank #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532379037477310474",
+            "nome": "\"Ádson Ramon🇧🇷\"",
+            "data": "\"2022-06-02 15:10:07+00:00\"",
+            "texto": "\"Hô #nubank para de me mandar notificação pq toda vida eu penso que é alguém me mandando pix.\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532361770681126912",
+            "nome": "\"Publi42\"",
+            "data": "\"2022-06-02 14:01:30+00:00\"",
+            "texto": "\"A Rainha do Pix!Link na bio. #pix #Mundo  #nubank #itau #c6 #cursoonline #cursos \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532361770681126912",
+            "nome": "\"Publi42\"",
+            "data": "\"2022-06-02 14:01:30+00:00\"",
+            "texto": "\"A Rainha do Pix!Link na bio. #pix #Mundo  #nubank #itau #c6 #cursoonline #cursos \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532076113450500096",
+            "nome": "\"Taison Barcelos L.\"",
+            "data": "\"2022-06-01 19:06:24+00:00\"",
+            "texto": "\"@Alexandre_Ernst atenção rapazeado vai rolar churras hj pra comemora q o #Inter pagou oq devia"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535053804642902016",
+            "nome": "\"Cleidson Silva\"",
+            "data": "\"2022-06-10 00:18:41+00:00\"",
+            "texto": "\"Vou deixar aqui pra vocês a chave do meu #pix pra vocês mandarem 1 real. Chave do pix cleixdsonsilva@gmail.com\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535040410409631750",
+            "nome": "\"Gabriel Lima\"",
+            "data": "\"2022-06-09 23:25:28+00:00\"",
+            "texto": "\"por favor!!!alguém me ajuda!!!pix 16 99785 3057estou totalmente endividado:empréstimo"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1535025738226835456",
+            "nome": "\"Rafaella Rosa Lima\"",
+            "data": "\"2022-06-09 22:27:10+00:00\"",
+            "texto": "\"Queria um #pix pra tomar um #Brahama\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534980870293037056",
+            "nome": "\"Rafael Carneiro (Multiplicador de renda)\"",
+            "data": "\"2022-06-09 19:28:52+00:00\"",
+            "texto": "\"TRANSFERÊNCIA VIA PIX DIRETAMENTE NA SUA CONTA ✅R$ 50 VAI 630 pixR$ 100 vai 1.100 pix R$ 130 VAI 1.500 pix… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534937010246402048",
+            "nome": "\"Reclame aqui Goiás\"",
+            "data": "\"2022-06-09 16:34:35+00:00\"",
+            "texto": "\"Alo @Caixa @BancoCentralBR cade o dinheiro que as pessoas enviam de outros bancos p vocês??? Recebi w pix hoje e ne… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534912216058806272",
+            "nome": "\"JornalCorreiodeMinas\"",
+            "data": "\"2022-06-09 14:56:04+00:00\"",
+            "texto": "\"Vítima cai em golpe de estelionato via pix #correiodeminas #policia #vitma #golpe #pix #estelionatario… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534898727189635077",
+            "nome": "\"carlosrafaelferreira\"",
+            "data": "\"2022-06-09 14:02:28+00:00\"",
+            "texto": "\"O pix vai dominar o mundo#sãopaulo #farol #semáfaro #pix #sp - at São Paulo/SP \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534654359476264961",
+            "nome": "\"XX ͥ℣ＯＲＴＥＸ࿐\"",
+            "data": "\"2022-06-08 21:51:26+00:00\"",
+            "texto": "\"Hoje eu só queria um oi... .............Oitenta mil na minha conta... #pix #ContaDigital #investimentos #humor\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534631286651904001",
+            "nome": "\"Autocritica e experiências\"",
+            "data": "\"2022-06-08 20:19:45+00:00\"",
+            "texto": "\"Aqui no Rio o #pix falam \"\"picse\"\" e na sua cidade ? Como é?\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534618115568455681",
+            "nome": "\"Meriane Guedes\"",
+            "data": "\"2022-06-08 19:27:25+00:00\"",
+            "texto": "\"@pabllovittar Quero um pix (83)998442645 façam um #pix pra min pfv🥺🤏\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534578726360567809",
+            "nome": "\"Comunidade BFX!\"",
+            "data": "\"2022-06-08 16:50:54+00:00\"",
+            "texto": "\"Você sabe como comprar #USDT via #pix?? Basta acessar  e seguir o passo a passo abaixo!! Lev… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534571838780624898",
+            "nome": "\"RASPAY\"",
+            "data": "\"2022-06-08 16:23:31+00:00\"",
+            "texto": "\"O pix facilita a vida dos brasileiros"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534561890923339777",
+            "nome": "\"Portal Estação\"",
+            "data": "\"2022-06-08 15:44:00+00:00\"",
+            "texto": "\"Banco Central mexe no PIX por debaixo dos panos.Veja como isso te impacta: \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534475340097146881",
+            "nome": "\"Inteligência Financeira\"",
+            "data": "\"2022-06-08 10:00:04+00:00\"",
+            "texto": "\"Cerca de 60% das transações parceladas do Pix são valores de até R$ 200#SigaIF #InteligênciaFinanceira #IF #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534371861475299330",
+            "nome": "\"pix me\"",
+            "data": "\"2022-06-08 03:08:53+00:00\"",
+            "texto": "\"Preciso de juntar dinheiro até dezembro"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534371535552667648",
+            "nome": "\"lore.\"",
+            "data": "\"2022-06-08 03:07:35+00:00\"",
+            "texto": "\"Preciso de juntar dinheiro até dezembro"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534334120939102210",
+            "nome": "\"moreninha🦊\"",
+            "data": "\"2022-06-08 00:38:55+00:00\"",
+            "texto": "\"Queria um pix #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534184357174337537",
+            "nome": "\"Blue Butterfly 🦋\"",
+            "data": "\"2022-06-07 14:43:49+00:00\"",
+            "texto": "\"Passa um pix 111.591.669-60#pix #passa #passaumpix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1534184318607802369",
+            "nome": "\"Bruna Rafaela Horning Biehl\"",
+            "data": "\"2022-06-07 14:43:39+00:00\"",
+            "texto": "\"Passa um pix 111.591.669-60#pix #passa #passaumpix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533981436453191680",
+            "nome": "\"TRANSFERENCIA VIA PIX\"",
+            "data": "\"2022-06-07 01:17:29+00:00\"",
+            "texto": "\"CLIENTE COMPROU O PACOTE DE $150 E RECEBEU 2.500LINK PARA CONTATO✅ \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533980392935636993",
+            "nome": "\"TRANSFERENCIA VIA PIX\"",
+            "data": "\"2022-06-07 01:13:20+00:00\"",
+            "texto": "\"TRANSFERÊNCIA  PIXTRANSFIRO O SALDO PRA SUA CONTA VIA PIXvalores abaixo$25 vai 500 no pix$50 vai 1.000… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533936499263152131",
+            "nome": "\"Mariana\"",
+            "data": "\"2022-06-06 22:18:55+00:00\"",
+            "texto": "\"@itau Só queria fazer um #pix tá difícil hj ?! Oque está acontecendo?!\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533932728810409984",
+            "nome": "\"Stefhanie\"",
+            "data": "\"2022-06-06 22:03:56+00:00\"",
+            "texto": "\"#pix oscilando é?\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533904600713019392",
+            "nome": "\"FarolDaBahia\"",
+            "data": "\"2022-06-06 20:12:10+00:00\"",
+            "texto": "\"Presidente do Banco Central afirma que criação do Pix custou R$ 4 milhões#pix #BC #faroldabahia #milhoes… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533891978156560384",
+            "nome": "\"felipe luciano\"",
+            "data": "\"2022-06-06 19:22:00+00:00\"",
+            "texto": "\"Abri e já vou fechar essa conta do banco bmg"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533878141730660353",
+            "nome": "\"Willian Sousa\"",
+            "data": "\"2022-06-06 18:27:01+00:00\"",
+            "texto": "\"Como assim o @nubank tá fora do ar pra fazer Pix? Me expliquem isso!#nubank #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533753784362467328",
+            "nome": "\"Ryan Dias\"",
+            "data": "\"2022-06-06 10:12:52+00:00\"",
+            "texto": "\"Só queria um pix surpresa.11930785000 é o celular tá gente #pix #sorte\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533692410995294208",
+            "nome": "\"Professional Hooman\"",
+            "data": "\"2022-06-06 06:09:00+00:00\"",
+            "texto": "\"Se puder ajude com doações para melhorar na criação e conteúdopix: operativopix@gmail.com  #elegante #cosplay… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533689235097755650",
+            "nome": "\"Professional Hooman\"",
+            "data": "\"2022-06-06 05:56:22+00:00\"",
+            "texto": "\"Se gostou mande pix para ajudar na minha criação de conteúdo para internet.Pix: operativopix@gmail.com#cosplay… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533487097994260482",
+            "nome": "\"asafe _dx8\"",
+            "data": "\"2022-06-05 16:33:09+00:00\"",
+            "texto": "\"Tem gente que me chama so pra perguntar pq eu me chamo assim! ta maluco na proxima faz o #pix melhor\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533259940873310210",
+            "nome": "\"andressa\"",
+            "data": "\"2022-06-05 01:30:31+00:00\"",
+            "texto": "\"@sccpaulo1910 faz o #pix pra eu comprar a camisa 2 do Corinthians!!!\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1533176703152967683",
+            "nome": "\"Thiago Cavalcanti\"",
+            "data": "\"2022-06-04 19:59:45+00:00\"",
+            "texto": "\"Acho que a única forma dos servidores do @BancoCentralBR serem ouvidos pelo @jairbolsonaro é parando o #pix. 8 anos… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532975169970524160",
+            "nome": "\"Cintia Santos\"",
+            "data": "\"2022-06-04 06:38:56+00:00\"",
+            "texto": "\"Tédio preciso de um pix 🥺#Pix #triste\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532889103636779016",
+            "nome": "\"Claudiana Costa\"",
+            "data": "\"2022-06-04 00:56:56+00:00\"",
+            "texto": "\"O pix está com problema??? #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532888847670992898",
+            "nome": "\"Claudiana Costa\"",
+            "data": "\"2022-06-04 00:55:55+00:00\"",
+            "texto": "\"Alguém mais com problema com pix do BB ?? #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532859314574020608",
+            "nome": "\"Pano Changes🇦🇹🇦🇹\"",
+            "data": "\"2022-06-03 22:58:34+00:00\"",
+            "texto": "\"NEGO DI EM.....VERDADES PRECISAM SER DITAS!#pix #dentedecheetos #direitodeimagem \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532835196646596610",
+            "nome": "\"corinthibiel\"",
+            "data": "\"2022-06-03 21:22:44+00:00\"",
+            "texto": "\"@lnmmrs @bfsoz @baleste indo fazer o #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532761552268451849",
+            "nome": "\"Bitfy\"",
+            "data": "\"2022-06-03 16:30:06+00:00\"",
+            "texto": "\"Você já pode comprar suas criptomoedas de forma rápida e garantir a cotação de momento da moeda. Faz um #pix! É só… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532759813108682752",
+            "nome": "\"Jheniffer Borges ❤️‍🔥🍑\"",
+            "data": "\"2022-06-03 16:23:11+00:00\"",
+            "texto": "\"Nada me faria mais feliz que um pix de 2.000 reias na minha conta! 🥹🥲#pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532723177767542785",
+            "nome": "\"Canção Nova\"",
+            "data": "\"2022-06-03 13:57:36+00:00\"",
+            "texto": "\"Gratidão gera milagres! Alcançamos 7% do Projeto Dai-me Almas. E você pode ajudar a Canção Nova através do pix: pix… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532723147736227844",
+            "nome": "\"Canção Nova Palmas\"",
+            "data": "\"2022-06-03 13:57:29+00:00\"",
+            "texto": "\"Gratidão gera milagres! Alcançamos 7% do Projeto Dai-me Almas. E você pode ajudar a Canção Nova através do pix: pix… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532696631614881793",
+            "nome": "\"Coroa do pix\"",
+            "data": "\"2022-06-03 12:12:07+00:00\"",
+            "texto": "\"+1 CLIENTE SATISFEITA ✅#Sextou do #pix chama 🤑Wpp:  VIA PIX DIRETAMEN… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532510263479500803",
+            "nome": "\"Sarahand\"",
+            "data": "\"2022-06-02 23:51:34+00:00\"",
+            "texto": "\"Estamos na atividade por aqui também 🥇••••#pix #pixiv #consorcio #investimento #cash #cashback \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532369824541818882",
+            "nome": "\"Robin gay e pobre\"",
+            "data": "\"2022-06-02 14:33:30+00:00\"",
+            "texto": "\"Dia dos namorados chegando❤️ Estou fazendo uma rifa sorteando uma cesta de café da manhã ou pix de 100Se puderem… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532361770681126912",
+            "nome": "\"Publi42\"",
+            "data": "\"2022-06-02 14:01:30+00:00\"",
+            "texto": "\"A Rainha do Pix!Link na bio. #pix #Mundo  #nubank #itau #c6 #cursoonline #cursos \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532341053994549248",
+            "nome": "\"💵 Milhonario pedindo pix 💵\"",
+            "data": "\"2022-06-02 12:39:11+00:00\"",
+            "texto": "\"Milhonario pedindo pix envie 0.10 a 1 Real pra ajudarChave: aa0c340a-410f-4830-9baf-4fe8aeff1df9#money #pix… \""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532337231192547337",
+            "nome": "\"cristinacriZe\"",
+            "data": "\"2022-06-02 12:24:00+00:00\"",
+            "texto": "\"Você que vota no #LulaLaDRAO mas usa #pix e #fintechs pra pagar conta"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532308604920922112",
+            "nome": "\"Em Dia ES\"",
+            "data": "\"2022-06-02 10:30:14+00:00\"",
+            "texto": "\"'Pai' ou padrasto? Lançado sob Bolsonaro"
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1532066898703437824",
+            "nome": "\"Jovem Pan News Bauru\"",
+            "data": "\"2022-06-01 18:29:47+00:00\"",
+            "texto": "\"Prefeituras vão receber cerca de R$ 3 bilhões por meio da chamada \"\"emenda Pix\"\" #pix\""
+        }
+    },
+    {
+        "sentimento": 1,
+        "tweet": {
+            "id": "1531954046566817793",
+            "nome": "\"Ajuda Online\"",
+            "data": "\"2022-06-01 11:01:21+00:00\"",
+            "texto": "\"Hoje uma ajuda seria muito bem vinda! Os dias passam"
+        }
+    }
+]
